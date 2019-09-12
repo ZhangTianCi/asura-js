@@ -13,4 +13,4 @@ now, i will start modules:
 
 2. Upload : to upload File to server , can auto slice by simple conifg. and also, can manual upload by config or function() . I think , it can't run on IE6/IE7 and others , because , "asura" is future , not only "code".
 
-3. list groupBy , in many project , we use java/C#/Python.... and js/jQuery/Vue... and Chart/Table/List... ,a important question is  DataFormat , in js using, no DataFormat tool (maybe it exist ,but i don't know,so sorry) .so i want develop a simple tool , make we can use the basic function "GroupBy" , to run basic DataFormat conver.
+3. Array groupBy , in many project , we use java/C#/Python.... and js/jQuery/Vue... and Chart/Table/List... ,a important question is  DataFormat , in js using, no DataFormat tool (maybe it exist ,but i don't know,so sorry) .so i want develop a simple tool , make we can use the basic function "GroupBy" , to run basic DataFormat conver.
