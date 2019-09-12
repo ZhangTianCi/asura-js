@@ -1,0 +1,33 @@
+{
+  "name": "asura-js",
+  "version": "0.0.1",
+  "description": "ES6 develop tool library",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangTianCi/asura-js.git"
+  },
+  "keywords": [
+    "asura","JS","ES6","JDK"
+  ],
+  "author": "ZhangTianci <472546172@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangTianCi/asura-js/issues"
+  },
+  "homepage": "https://github.com/ZhangTianCi/asura-js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.6.0"
+  }
+}
