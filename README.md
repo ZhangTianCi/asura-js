@@ -1,3 +1,7 @@
+```diff
+- 年轻的时候真幼稚
+```
+
 # asura-js
 The "Asura" project is a philosophy and a series of reflections on the project development system.
 
